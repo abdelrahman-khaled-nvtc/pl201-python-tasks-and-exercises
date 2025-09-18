@@ -60,7 +60,11 @@ Each exercise folder contains:
 
 ### How to Use This Repository
 
-1. **Navigate to an exercise:**
+1. **Clone the Repository and Navigate to an exercise:**
+   ```bash
+   git clone https://github.com/abdelrahman-khaled-nvtc/pl201-python-tasks-and-exercises.git
+   ```
+
    ```bash
    cd 01_Python_Automation/01_Files_Management_and_Automation/01_Open_Print_File
    ```
