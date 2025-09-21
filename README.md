@@ -66,7 +66,7 @@ Each exercise folder contains:
    ```
 
    ```bash
-   cd 01_Python_Automation/01_Files_Management_and_Automation/01_Open_Print_File
+   cd pl201-python-tasks-and-exercises/01_Python_Automation/01_Files_Management_and_Automation/01_Open_Print_File
    ```
 
 2. **Read the task instructions:**
